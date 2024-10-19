@@ -1,7 +1,6 @@
 node_modules
 .parcel-cache
 dist
-package.json
 styles.css
 tailwind.config.js
 .postcssrc
